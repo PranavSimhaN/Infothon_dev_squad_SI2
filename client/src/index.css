@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box{
+    /* border: 2px solid #fff; */
+    margin: auto;
+    margin-top: 50px;
+    background-color: #e6e6e6;
+  }
+  
+  
+  .tabs{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .tab{
+    background: #B058D5;
+    flex:1;      
+    padding: 10px;
+    text-align: center;
+    /* border: 1px solid grey; */
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .active-tab{
+    border: 2px solid #b2cde4;
+    background: #9061F9;
+    color: #fff;
+    font-size: larger;
+  }
+  
+  .active-tab::after{
+    /* border-top: 2px solid #fff; */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background: initial;
+    animation: new 0.5s;
+    /* border: 1px solid grey; */
+  }
+  
+  @keyframes new{
+    from{
+      top:50px;
+      left:0;
+      right:0;
+      /* border-top:#fff; */
+    }
+  
+    to{
+      top:0px;
+      left:0;
+      right:0;
+      /* border-top: 2px solid #fff; */
+    }
+  }
+  
+  .contents{
+    position: relative;
+  }
+  
+  .content{
+    display: none;
+    position: relative;
+  }
+  
+  .active-content{
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: all 1s ease-in-out;
+    animation: example 0.3s;
+  }
+  
+  @keyframes example{
+    from{
+      margin: 0;
+    }
+  
+    to{
+      margin-left: 10px;
+    }
+  }
+  
+  .img{
+    height: 300px;
+  }
