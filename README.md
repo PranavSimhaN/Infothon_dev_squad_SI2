@@ -129,6 +129,77 @@ To set up Nodemailer and other required environment variables:
 ### Screenshot 8: Student hostel room selection page
 ![Screenshot (344)](https://github.com/user-attachments/assets/b5429d6e-3476-40b4-a592-2eac057fa8d6)
 
+### Screenshot 9: Student specific course page
+![Screenshot (345)](https://github.com/user-attachments/assets/9e35f7db-0cff-4ecc-a8da-198315e73002)
+
+
+### Screenshot 10: Student marks page
+![Screenshot (346)](https://github.com/user-attachments/assets/fe2a1ec0-d60d-47cd-87a9-5955897563eb)
+
+
+### Screenshot 11: Student attendance page
+![Screenshot (347)](https://github.com/user-attachments/assets/1ab0da79-b858-4362-bab3-d8148bee3085)
+
+
+### Screenshot 12: Student course plan view
+![Screenshot (348)](https://github.com/user-attachments/assets/dc1f8ef9-6013-4b25-80ce-74a42b18909e)
+
+
+### Screenshot 13: Student  Feedback page
+![Screenshot (349)](https://github.com/user-attachments/assets/1faa1ffb-dc27-46e7-8e35-1e3ddb1b0ac8)
+
+### Screenshot 14: Faculty dashboard page
+![Screenshot (350)](https://github.com/user-attachments/assets/14a92693-f9a5-47b4-a5e2-2518d7925b8f)
+
+
+### Screenshot 15:Faculty  marks assign page
+![Screenshot (352)](https://github.com/user-attachments/assets/32e69aea-f5eb-4fa8-ae02-28abf2b7a66d)
+
+
+### Screenshot 16: Faculty  attendance page
+![Screenshot (353)](https://github.com/user-attachments/assets/3cf09b6b-1474-45ed-85a3-d9006682c02b)
+
+
+### Screenshot 17: Faculty  course plan page
+![Screenshot (354)](https://github.com/user-attachments/assets/58347d85-106e-4297-9440-d646ff911511)
+
+
+### Screenshot 18: Faculty one to one meeting page
+![Screenshot (355)](https://github.com/user-attachments/assets/9492ccd2-5ccc-4644-a189-5b8c5a9b71a0)
+
+
+### Screenshot 19: Faculty Feedback page
+![Screenshot (356)](https://github.com/user-attachments/assets/4bee2ed8-198e-46b0-a097-1c4f67e27634)
+
+
+
+### Screenshot 20: Admin dashboard page
+![Screenshot (358)](https://github.com/user-attachments/assets/720f1445-06f9-4f09-b257-1faf42056a8d)
+
+
+### Screenshot 21: Admin add course page
+![Screenshot (359)](https://github.com/user-attachments/assets/92003265-78c5-4696-b4bc-e9f589da6c7e)
+
+![Screenshot (360)](https://github.com/user-attachments/assets/69915d96-1dc4-4ca9-8165-e73add9f48a8)
+
+
+### Screenshot 22: Admin add news page
+![Screenshot (361)](https://github.com/user-attachments/assets/afc19370-557b-4341-bb1a-b1f92f32797e)
+
+
+### Screenshot 23: Parent dashboard page
+![Screenshot (363)](https://github.com/user-attachments/assets/099fdad5-bae7-4757-bf11-f17daf31c54e)
+
+
+### Screenshot 24: Parent marks page
+![Screenshot (364)](https://github.com/user-attachments/assets/43e1c311-fa2a-457a-bba4-603af2f9ade0)
+
+
+### Screenshot 25: Parent attendance page
+![Screenshot (365)](https://github.com/user-attachments/assets/76a05bef-c62f-493a-97b8-e1939730283d)
+
+
+
 
 
 
