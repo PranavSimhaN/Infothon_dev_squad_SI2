@@ -101,45 +101,36 @@ To set up Nodemailer and other required environment variables:
 
 ## Screenshots
 
-### Screenshot 1: Login Page
-![Login Page](path/to/screenshot1.png)
-*Description:*
+### Screenshot 1: Home page (Light theme)
+![Screenshot (337)](https://github.com/user-attachments/assets/b50f196e-ddf1-4beb-b5bb-97ce02eda8d2)
 
-### Screenshot 2: Student Dashboard
-![Student Dashboard](path/to/screenshot2.png)
-*Description:*
+### Screenshot 2: Home page (dark theme)
 
-### Screenshot 3: Teacher Dashboard
-![Teacher Dashboard](path/to/screenshot3.png)
-*Description:*
+![Screenshot (338)](https://github.com/user-attachments/assets/192b3307-0318-476e-a905-6448e123969f)
 
-### Screenshot 4: Parent Dashboard
-![Parent Dashboard](path/to/screenshot4.png)
-*Description:*
+### Screenshot 3: Sign in page
+![Screenshot (339)](https://github.com/user-attachments/assets/d895550c-c9f8-4e2c-833e-640131674096)
 
-### Screenshot 5: Admin Dashboard
-![Admin Dashboard](path/to/screenshot5.png)
-*Description:*
 
-### Screenshot 6: Attendance System
-![Attendance System](path/to/screenshot6.png)
-*Description:*
+### Screenshot 4: Sign up page
+![Screenshot (340)](https://github.com/user-attachments/assets/899755c2-f081-47d3-935a-74a5d2164330)
 
-### Screenshot 7: Academic Performance Tracking
-![Academic Performance Tracking](path/to/screenshot7.png)
-*Description:*
 
-### Screenshot 8: Parent Teachers Meeting
-![Parent Teachers Meeting](path/to/screenshot8.png)
-*Description:*
+### Screenshot 5: Student home page
+![Screenshot (341)](https://github.com/user-attachments/assets/c615e0e5-1d52-4478-9478-317d894a6600)
 
-### Screenshot 9: Feedback and Surveys
-![Feedback and Surveys](path/to/screenshot9.png)
-*Description:*
+### Screenshot 6: Student dash board
+![Screenshot (341)](https://github.com/user-attachments/assets/c615e0e5-1d52-4478-9478-317d894a6600)
 
-### Screenshot 10: Data Analytics and Reporting
-![Data Analytics and Reporting](path/to/screenshot10.png)
-*Description:*
+### Screenshot 7: Student course reg page
+ ![Screenshot (343)](https://github.com/user-attachments/assets/d5412da9-af3c-4513-8c16-342349862c24)
+
+
+### Screenshot 8: Student hostel room selection page
+![Screenshot (344)](https://github.com/user-attachments/assets/b5429d6e-3476-40b4-a592-2eac057fa8d6)
+
+
+
 
 ## Conclusion
 
